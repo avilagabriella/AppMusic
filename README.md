@@ -1,6 +1,7 @@
 # 🎵 AppMusic  🎵
 
-## Objetivo: Aplicativo de música funcional
+## Objetivo: 
+- Aplicativo de música funcional
 
 ## Como testar:
 ```
